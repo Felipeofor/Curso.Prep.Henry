@@ -1,0 +1,11 @@
+
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+
+&&: Si una de las condiciones del codigo no se cumple el codigo no se ejecutara. Solo si todas las condiciones se cumplen se ejecutara el codigo.
+
+||: Si una de las condiciones se cumple el codigo se ejecutara, sin importar que el resto de las condiciones no se cumplan.
+
+!: Deveulve el contrario de la condicion. Por ejemplo, si el resultado de una condicion es verdadero pero tiene un !, esta se volvera falsa.
+
+for: Un valor original es modificado "x" cantidad de veces hasta que se cumpla cierta condicion.
