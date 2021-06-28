@@ -1,0 +1,30 @@
+1.
+ 	* Variables: 
+        Son como cajas en las que podemos guardas cosas u "objetos"
+     
+        Hay 3 tipos: 
+        Las cajas var: Se pueden cambiar su contenido en cualquier momento.
+
+        Las cajas let: Son muy similares a las let pero no se puede repetir su nombre mas de una vez.
+
+        Las cajas const: No se puede cambiar su contenido ni su nombre.
+
+	* Strings:
+        Todo lo que este escrito entre comillas dobles o simples.
+
+	* Funciones (argumentos, `return`):
+        Funciones son un conjunto de ordenes u/o propiedades que se ejecutaran cuando las llames.
+        Los argumentos son esas ordenes o priedades contenidas dentro de la funcion, que se ejecutaran cuando la llamemos.
+        Return es todo lo que queremos permitir que salga de la funcion.
+
+	* Declaraciones `if`:
+        Con ellas podemos controlar el comportamiento del codigo dependiendo de la respuesta que recibamos. Por ejemplo: Queres comprar un coche que te gusta y tenes que hablar con tu papá por que el es que sabe de autos. Si a tu papá le gusta el auto que elegiste lo compras, en caso contrario no se compra ese auto. 
+
+	* Valores booleanos (`true`, `false`):
+        Dependiendo de la comparacion de dos elementos o mas, vamos a recibir una respuesta "verdadero " o "falso". Como en el ejemplo anterior se veria asi:
+
+        funcion comprarCoche (leGustaAPapa) {
+                if (leGustaAPapa == "si") {
+                return true;}
+                return false;
+                }
