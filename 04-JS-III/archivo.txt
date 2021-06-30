@@ -1,0 +1,3 @@
+Arrays
+
+Es un contenedor donde podemos guardar otras cajas (variables) y cadenas, numeros y/o booleanos sin limite.
