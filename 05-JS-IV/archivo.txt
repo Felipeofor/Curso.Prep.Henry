@@ -1,0 +1,14 @@
+Objetos 
+Los objetos tienen mucha informacion pero de una cosa
+
+Propiedades
+La propiedad es el elemento de un objeto
+
+Métodos
+Las funciones guardadas en un objeto se denominan métodos
+
+Bucle for…in
+En el bucle for in entre parentesis se declara una variable, la palabra in y luego el nombre el nombre de objeto.Esto recorrerá cada clave del objeto y finalizará cuando se hayan iterado todas las claves. Podemos usar esta clave, y la notación de corchetes, en nuestro bucle for para acceder al valor asociado con esa clave
+
+Notación de puntos vs notación de corchetes
+
